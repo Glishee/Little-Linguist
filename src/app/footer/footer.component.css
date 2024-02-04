@@ -1,0 +1,27 @@
+
+mat-toolbar {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  color: white; 
+}
+
+
+.content {
+  margin-bottom: 64px; 
+}
+
+
+#name {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+#icon{
+  float: right;
+  }
+
+
+.example-icon {
+    margin-left: auto;
+  }
